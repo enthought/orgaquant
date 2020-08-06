@@ -1,0 +1,2 @@
+image_path: {class: File, location: test_images/1.jpg}
+model_path: {class: File, location: trained_models/orgaquant_intestinal_v3.h5}
